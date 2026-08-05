@@ -58,4 +58,3 @@ class Fornecedor_Terminal_View:
     def aguardar_entrada(self):
         input(Fore.WHITE + "Pressione Enter para continuar...")
 
-
